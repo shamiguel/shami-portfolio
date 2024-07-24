@@ -1,0 +1,8 @@
+<h2>{{this.section.name}}</h2>
+<div *ngFor="let writing of this.writings">
+    <img src={{writing.image}} width="300" height="150" >
+    <h3>{{writing.name}}</h3>
+    <p>{{writing.position}}</p>
+    <p>{{writing.text}}</p>
+    <p>{{writing.link}}</p>
+</div>
