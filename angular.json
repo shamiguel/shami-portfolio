@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "personal-portfolio": {
+    "shami-portfolio": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
